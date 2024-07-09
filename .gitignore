@@ -1,0 +1,7 @@
+__pycache__/
+/bot_texts.json
+/config.json
+/bot_texts.json
+/bot.session
+/bot.session-journal
+logs/
